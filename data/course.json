@@ -28,6 +28,7 @@
     "website": "17-561-european-politics-fall-2020"
   },
   "course_title": "European Politics",
+  "hide_download": true,
   "course_description": "This course examines similarities and differences in politics and political economy in Britain, Germany, Denmark, and Sweden. In particular, the course focuses on the structure of political power within the state, and on important institutions that form the link between state and society, especially political parties and interest organizations.\n",
   "department_numbers": [
     "17"
@@ -38,6 +39,7 @@
     "content": "935dabb7-392e-7d19-f632-198e0fc67166",
     "website": "17-561-european-politics-fall-2020"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Written Assignments"
   ],
